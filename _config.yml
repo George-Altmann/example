@@ -6,3 +6,6 @@ remote_theme: "George-Altmann/jekyll-theme-yat"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
