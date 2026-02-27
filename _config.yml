@@ -2,7 +2,7 @@ title: Example
 
 description: Freelance Content Creator
 
-remote_theme: George-Altmann/jekyll-theme-yat
+remote_theme: "George-Altmann/jekyll-theme-yat"
 
 plugins:
   - jekyll-remote-theme
